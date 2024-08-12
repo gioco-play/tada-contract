@@ -1,0 +1,11 @@
+{
+    "name": "gioco-plus/tada-contract",
+    "description": "tada interface",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "GiocoPlus\\Tada\\": "src/"
+        }
+    },
+    "require": {}
+}
